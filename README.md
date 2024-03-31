@@ -1,1 +1,1 @@
-# So pra solicitação usando axios
+# So pra solicitações usando axios
