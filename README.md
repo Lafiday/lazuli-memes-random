@@ -1,7 +1,7 @@
 # Lazuli memes
 ## Faça Solicitações para obter os melhores memes
 > Qualidade
-> Quantidade
+> Quantidade\
 > SFW
 
 ### Entre no Servidor de Suporte!
