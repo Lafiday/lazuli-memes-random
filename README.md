@@ -2,7 +2,7 @@
 ## Faça Solicitações para obter os melhores memes
 > Qualidade\
 > Quantidade\
-> SFW\
+> SFW
 
 ### Entre no Servidor de Suporte!
 > https://discord.com/invite/78r9E32Y25
